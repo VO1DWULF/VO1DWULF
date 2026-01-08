@@ -1,4 +1,5 @@
 Hi, I'm Marco
+
 I am a versatile technical professional transitioning into cybersecurity, with strengths in networking, troubleshooting, and systems monitoring. I previously worked as an HVAC engineer with 4+ years of experience in technical installations and monitoring software.
 
 I am currently focusing on:
